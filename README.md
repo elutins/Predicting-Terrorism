@@ -1,4 +1,4 @@
-# ![] Predicting Terrorism / Bayesian Inference
+# Predicting Terrorism / Bayesian Inference
 
 
 
